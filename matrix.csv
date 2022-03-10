@@ -1,0 +1,40 @@
+Platforms,Languages,Software,Frameworks,Expertise
+,Python,,, 3.5
+,SQL,,, 3
+,Groovy,,, 3
+,Objective-C,,, 1.5
+,Powershell,,, 2
+,,,Django, 1.5
+,,,Pandas, 3
+,,,Numpy, 1.5
+,,,Selenium, 2
+,,,Scrapy, 1.5
+,,,Rest API's, 3.5
+,,,jupyter notebook, 3
+,,,cdk, 3.1
+AWS,,,, 1.5
+,Node.js,,, 1
+,Javascript,,, 2
+,html/css,,, 1.5
+,Lua,,, 1.5
+,,,Seaborn, 3
+,,,Requests, 3.5
+,,,Matplotlib, 2.5
+Microsoft Windows 10,,,, 4.5
+,,Microsoft Office,, 2.5
+,,Theos,, 3
+,,Xcode,, 1.5
+,,Plesk,, 2
+,,PhpMyAdmin,, 2
+,,Xampp,, 2.5
+,,UniformServer,, 2.5
+,,git,, 2
+MacOS,,,, 3
+IOS,,,, 4
+Linux (Ubuntu),,,, 2.5
+,,Pycharm,, 3.5
+,,Visual Studio Code,, 3
+Google Cloud computing,,,, 1
+Amazon Web Services,,,, 4
+,,Google Colab,, 3
+,,,,5
